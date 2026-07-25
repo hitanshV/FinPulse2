@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+venv/
+env/
+.env
+*.db
+.streamlit/
+.DS_Store
+.idea/
+.vscode/
